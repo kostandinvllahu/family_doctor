@@ -12,7 +12,7 @@
         <input type="checkbox" id="nav-check">
         <div class="nav-header">
           <div class="nav-title">
-            MysteryCode
+           E-Doctor
           </div>
         </div>
         <div class="nav-btn">
@@ -25,7 +25,6 @@
         
         <div class="nav-links">
             <ul>
-			<li class="active"><a href="#">Home</a>
 			<li><a href="#">Services</a></li>
 			<li><a href="#">Profile of user</a></li>
 			<li><a href="#">News</a></li>
